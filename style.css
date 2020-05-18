@@ -21,6 +21,8 @@
     text-transform: uppercase;
     text-align: center;
     padding: 10px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
 }
 
 #displayContainer{
@@ -77,6 +79,12 @@
     color: white;
 }
 
-#equalBtn{
-    width: 50%;
+.blue {
+    background-color: blue;
+    color: white;
 }
+
+
+/* #equalBtn{
+    width: 50%;
+} */
